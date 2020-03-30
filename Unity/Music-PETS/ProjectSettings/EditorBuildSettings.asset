@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PETSHololensApp/Scenes/HololensStartScene.unity
+    guid: b7eb193e5b8a01e4ebfcc5b499906052
+  - enabled: 1
+    path: Assets/PETSHololensApp/Scenes/HololensMainScene.unity
+    guid: 7ce7d127eb0082940b87448f2f56dc02
+  - enabled: 1
+    path: Assets/PETSControlPanel/Scenes/PCControlPanelStartScene.unity
+    guid: 021c68ed582f72c44ad0f81a3b5992d2
+  - enabled: 1
+    path: Assets/PETSControlPanel/Scenes/PCControlPanelScene.unity
+    guid: 883e3488a825d1347bcffd53882974a4
+  - enabled: 1
+    path: Assets/PETSControlPanel/Scenes/GameScenes/RhythmGameControlPanelScene.unity
+    guid: 257d39cc044fca84198c6fa207fe0628
+  - enabled: 1
+    path: Assets/PETSControlPanel/Scenes/GameScenes/FlappyBirdControlPanelScene.unity
+    guid: 63407671616c6b14da8a438fff3dc152
+  - enabled: 1
+    path: Assets/PETSControlPanel/Scenes/ForceCalibrationScene.unity
+    guid: 44118640da19c824cb96eed38fccc06f
+  - enabled: 1
+    path: Assets/PETSControlPanel/Scenes/StandardVisualizationScenes/SequentialTestingControlPanelScene.unity
+    guid: ec0d2b48a978fb947a0d77cfabccf011
+  - enabled: 1
+    path: Assets/PETSControlPanel/Scenes/StandardVisualizationScenes/DynamicForceTrackingControlPanelScene.unity
+    guid: f1631a71fbd6be8489c7566aefd022ac
+  - enabled: 1
+    path: Assets/MusicPlay/Scenes/MusicPlayControlPanelScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073df9837cc8d8742b37ddd28a06fa27, type: 3}
+  m_Name: test1
+  m_EditorClassIdentifier: 
+  presetName: test1
+  leftThumbMaxForce: NaN
+  leftIndexFingerMaxForce: NaN
+  leftMiddleFingerMaxForce: NaN
+  leftRingFingerMaxForce: NaN
+  leftPinkyMaxForce: NaN
+  rightThumbMaxForce: 0.0023703457460468934
+  rightIndexFingerMaxForce: 0.0018268727655289297
+  rightMiddleFingerMaxForce: 0.0010164754112381557
+  rightRingFingerMaxForce: 0.0015429157996333879
+  rightPinkyMaxForce: 0.0009703625879350533
+  leftThumbBaseForce: 0
+  leftIndexFingerBaseForce: 0
+  leftMiddleFingerBaseForce: 0
+  leftRingFingerBaseForce: 0
+  leftPinkyBaseForce: 0
+  rightThumbBaseForce: 0
+  rightIndexFingerBaseForce: 0
+  rightMiddleFingerBaseForce: 0
+  rightRingFingerBaseForce: 0
+  rightPinkyBaseForce: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39dbed676a924284dbca5274ef918fa2, type: 3}
+  m_Name: Preset A
+  m_EditorClassIdentifier: 
+  presetName: Preset A
+  thumbTargetForcePercent: 10
+  indexFingerTargetForcePercent: 20
+  middleFingerTargetForcePercent: 30
+  ringFingerTargetForcePercent: 20
+  pinkyTargetForcePercent: 10
+  thumbMinimumForcePercent: 0
+  indexFingerMinimumForcePercent: 0
+  middleFingerMinimumForcePercent: 0
+  ringFingerMinimumForcePercent: 0
+  pinkyMinimumForcePercent: 0
+  thumbOrder: 0
+  indexFingerOrder: 1
+  middleFingerOrder: 2
+  ringFingerOrder: 3
+  pinkyOrder: 4
+  measurementDuration: 4

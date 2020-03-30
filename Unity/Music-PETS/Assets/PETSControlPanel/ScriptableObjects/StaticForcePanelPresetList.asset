@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7108348325cf39a47bc857bf961584db, type: 3}
+  m_Name: StaticForcePanelPresetList
+  m_EditorClassIdentifier: 
+  presets:
+  - {fileID: 11400000, guid: 1cb50178bd0bd1a489555599baa1e7b9, type: 2}
+  - {fileID: 11400000, guid: bcb3f99088f2eb542923dfb5b5dc3030, type: 2}
