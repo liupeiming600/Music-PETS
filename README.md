@@ -3,6 +3,11 @@
 - **Lab Windows/CVI 2017 Full Development System**: version 17.0.0<br>
 - **Ableton Live 10 Suite**: version 10.1.1<br>
 - **Unity**: version 2017.4 (LTS release)<br>
+# 0. Introduce
+This is a rehabilitation system designed for finger exercises. It utilizes Unity to connect our self-made devices (desktop and handheld versions). The desktop version is compatible with Hololens for AR training. The handheld version can be connected to an iPad via Bluetooth for training, and it provides a specialized UI on the iPad to assist with the exercises.
+This is a demo held in Nara's hospital.
+
+https://www.youtube.com/watch?v=Pf5aNwb4C14
 # 1. Setup
 ## 1.1 Lab Windows
 ### 1.1.1 Connect PETS to PC
